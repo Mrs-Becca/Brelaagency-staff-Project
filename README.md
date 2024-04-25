@@ -1,1 +1,1 @@
-# Brelaagency-staff-Project
+# This SQL file contains data retrieval of staff and business information, stored in a database by running SQL queries to explore patterns and relations to the data, which will inform future decisions of the agency.
